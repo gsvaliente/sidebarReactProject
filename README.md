@@ -59,4 +59,3 @@ This allows the context created to be used in any component without the need of 
 
 This is were the majority of the logic lies. For the modal, it is hidden, while the sidebar is translated out of the screen.
 To make it live, classes are implemented conditionally in each component (Sidebar, Modal).
-# sidebarReactProject
